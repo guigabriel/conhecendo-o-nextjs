@@ -1,6 +1,6 @@
 import Link from "next/link"
 import styles from "../styles/Layout.module.css"
-import Cabecalho from "./Cabecalho"
+
 
 export default function Layout (props) {
     console.log(props)

@@ -1,4 +1,7 @@
 .navegador {
-    background-color: #bbb;
-    padding: 20px;
+    padding: 30px;
+    margin: 10px;
+    color: black;
+    border-radius: 8px;
+    cursor: pointer;
 }
